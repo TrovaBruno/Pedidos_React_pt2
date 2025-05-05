@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import Pedido from "./Pedido";
 import Cartao from "./Cartao";
 import Feedback from './Feedback';
+import '@fortawesome/fontawesome-free/css/all.css'
 
 const App = () => {
   const textoOK = "Já chegou"
